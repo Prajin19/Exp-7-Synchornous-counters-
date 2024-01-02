@@ -122,10 +122,11 @@ endmodule
 
 ## TRUTH TABLE 
 ### UP COUNTERS
-![Screenshot 2023-12-22 011220](https://github.com/Prajin19/Exp-7-Synchornous-counters-/assets/144979377/aa3a3b14-f95f-4fb5-af3b-06f11ac21c21)
+![Screenshot 2024-01-02 105332](https://github.com/Prajin19/Exp-7-Synchornous-counters-/assets/144979377/f8e727e6-ae48-4088-8f61-a18f9b41f478)
+
 
 ### DOWN COUNTERS
-![Screenshot 2023-12-22 011231](https://github.com/Prajin19/Exp-7-Synchornous-counters-/assets/144979377/6cf4e1c1-f0ee-4f7b-b350-6e3524d4cb7b)
+![Screenshot 2024-01-02 105345](https://github.com/Prajin19/Exp-7-Synchornous-counters-/assets/144979377/53895785-5d03-4f45-abfa-440f92fd4457)
 
 
 ### RESULTS 
